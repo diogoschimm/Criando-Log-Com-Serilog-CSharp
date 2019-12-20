@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrarLogComSerilog", "RegistrarLogComSerilog\RegistrarLogComSerilog.csproj", "{9267BA90-0158-44C9-AC83-9D8F7B7A8703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9267BA90-0158-44C9-AC83-9D8F7B7A8703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9267BA90-0158-44C9-AC83-9D8F7B7A8703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9267BA90-0158-44C9-AC83-9D8F7B7A8703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9267BA90-0158-44C9-AC83-9D8F7B7A8703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B67E019-854B-49F8-9516-93DD1973E0FB}
+	EndGlobalSection
+EndGlobal
